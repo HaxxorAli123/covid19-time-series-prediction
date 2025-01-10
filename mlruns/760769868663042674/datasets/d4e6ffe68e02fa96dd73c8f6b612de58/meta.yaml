@@ -1,0 +1,10 @@
+digest: 8deed35b
+name: dataset
+profile: '{"features_cardinality": 11}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"name\": \"0\", \"type\": \"tensor\",
+  \"tensor-spec\": {\"dtype\": \"float32\", \"shape\": [-1, 30, 30]}}, {\"name\":
+  \"1\", \"type\": \"tensor\", \"tensor-spec\": {\"dtype\": \"float32\", \"shape\":
+  [-1, 30, 1]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "User", "mlflow.source.name": "C:\\Users\\User\\AppData\\Roaming\\Python\\Python312\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

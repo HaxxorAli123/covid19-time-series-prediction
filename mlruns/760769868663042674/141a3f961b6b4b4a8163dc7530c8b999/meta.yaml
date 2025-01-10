@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/User/OneDrive/Desktop/YP/Subjects/Capstone/project1/mlruns/760769868663042674/141a3f961b6b4b4a8163dc7530c8b999/artifacts
+end_time: 1736515160189
+entry_point_name: ''
+experiment_id: '760769868663042674'
+lifecycle_stage: active
+run_id: 141a3f961b6b4b4a8163dc7530c8b999
+run_name: lstm_128
+run_uuid: 141a3f961b6b4b4a8163dc7530c8b999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736515097497
+status: 3
+tags: []
+user_id: User

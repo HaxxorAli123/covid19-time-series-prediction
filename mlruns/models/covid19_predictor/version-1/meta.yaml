@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736470283318
+current_stage: None
+description: ''
+last_updated_timestamp: 1736470283318
+name: covid19_predictor
+run_id: 430878c1154a4a8199d7a77dfa5a4449
+run_link: ''
+source: file:///c:/Users/User/OneDrive/Desktop/YP/Subjects/Capstone/project1/mlruns/760769868663042674/430878c1154a4a8199d7a77dfa5a4449/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/User/OneDrive/Desktop/YP/Subjects/Capstone/project1/mlruns/760769868663042674/430878c1154a4a8199d7a77dfa5a4449/artifacts/model
+user_id: null
+version: 1
